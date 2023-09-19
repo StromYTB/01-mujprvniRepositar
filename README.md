@@ -1,2 +1,2 @@
-# 01-mujprvniRepositar
+# 01-mujprvniRepozitar
 Petr Juha IT1
