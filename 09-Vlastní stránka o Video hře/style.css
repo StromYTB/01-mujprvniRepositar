@@ -1,0 +1,32 @@
+.introduction {
+    background-color: rgb(168, 146, 105);
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    text-align: center;
+}
+
+.introduction iframe {
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: rgb(108, 97, 69);
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+footer a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.introduction a {
+    text-decoration: none;
+    color: yellow;
+}
