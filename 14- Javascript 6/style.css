@@ -1,0 +1,13 @@
+.outputs {
+    margin: 50px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
