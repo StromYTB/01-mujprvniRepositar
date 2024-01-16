@@ -1,0 +1,16 @@
+.games{
+    display: flex;
+    flex-direction: row;
+    padding: 10vh;
+    background-color: rgb(71, 71, 71);
+}
+
+.card{
+    padding: 3vh;
+}
+
+* {background-color: rgb(71, 71, 71)}
+
+.card-title{
+    color:cyan;
+}
